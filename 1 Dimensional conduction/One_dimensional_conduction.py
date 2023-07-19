@@ -9,7 +9,7 @@ inside_temperature = float(
     input('Please enter the temperature of inside: '))
 outside_temperature = float(
     input('Please enter the temperature of outside: '))
-# creating a funtion to check if an input cab be a float or not
+# creating a funtion to check if an input can be a float or not
 
 
 def is_float(string):
